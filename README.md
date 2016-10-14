@@ -1,7 +1,7 @@
 # js-maps
 Epicodus JavaScript week 1 project to build a map application using Google Maps API.
 
-#  :thought_balloon::bike::map:
+#  :thought_balloon::bike::earth_americas:
 ## Google Maps API project_
 _an Epicodus Project, October 2016_
 ### By _Karen Freeman-Smith and Alexander Jacks_
